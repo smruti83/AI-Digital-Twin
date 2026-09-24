@@ -1,0 +1,5 @@
+anjan Malik is an MCA graduate with a strong academic background, including 82% in B.Sc. and 77% in MCA.
+He has skills in Python, Java, OOP/OOPS, Java Collections Framework, DSA, SQL and MySQL.
+His AI skills include Machine Learning, Deep Learning, Generative AI, LLMs, RAG, embeddings and AI Agents.
+His projects include a Mathematical Calculator, Personal Career Chatbot and AI Agent.
+He is interested in building a career in Software Development, AI/ML, Generative AI and Agentic AI.

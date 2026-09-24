@@ -1,0 +1,96 @@
+LINKEDIN PROFILE
+
+Name:
+Smruti Ranjan Malik
+
+LinkedIn Profile:
+https://www.linkedin.com/in/smruti-ranjan-malik-aa317b267
+
+
+PROFESSIONAL PROFILE
+
+Smruti Ranjan Malik is a software development and AI/ML enthusiast
+with an interest in backend development, Java, Python, artificial
+intelligence, machine learning and modern software technologies.
+
+
+EDUCATION
+
+MCA: 2022-2024
+77.55%
+
+B.Sc Zoology Honours: 2019-2022
+82%
+
+12th:2017-2019
+
+
+10th:2017
+
+
+
+TECHNICAL SKILLS
+
+Programming:
+- Java
+- Python
+
+Backend:
+- Spring Boot
+- REST APIs
+- Microservices
+
+Database:
+- MySQL
+- SQL
+- Database fundamentals
+
+Cloud / Technology:
+- AWS
+- APIs
+
+Web Technologies:
+- HTML
+- CSS
+
+Other Technical Interests:
+- Data Structures and Algorithms
+- Artificial Intelligence
+- Machine Learning
+- Agentic AI
+- Data Science
+
+
+PROJECTS
+
+- AI Digital Twin
+- AI Agent
+- Online Voting System
+- Calculator
+- Snake Game
+
+
+CAREER INTERESTS
+
+- Software Engineer
+- Java Developer
+- Backend Developer
+- AI/ML Engineer
+- Agentic AI
+
+
+PROFESSIONAL INTERESTS
+
+- Backend Software Development
+- Java and Spring Boot
+- Artificial Intelligence
+- Machine Learning
+- AI Agents
+- Cloud Technologies
+- Software Engineering
+
+
+PROFILE SOURCE
+
+Official LinkedIn:
+https://www.linkedin.com/in/smruti-ranjan-malik-aa317b267
