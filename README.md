@@ -1,6 +1,6 @@
 ## 🚀 Live Demo
 
-👉 [Chat with My AI Digital Twin](https://twin-production-3762.up.railway.app/)
+👉 [Chat with My AI Digital Twin](www.smrutiranjan.xyz)
 
 # 🤖 AI Digital Twin — Smruti Ranjan Malik
 
