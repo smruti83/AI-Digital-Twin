@@ -1,7 +1,7 @@
 ## 🚀 Live Demo
 
 👉 [Chat with My AI-Digital Twin]
-https://www.smrutiranjan.xyz
+   https://www.smrutiranjan.xyz
 
 # 🤖 AI Digital Twin — Smruti Ranjan Malik
 
